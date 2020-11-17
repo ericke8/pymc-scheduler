@@ -1,0 +1,62 @@
+{
+  "officers": [
+    {
+      "name": "Officer1 Officer1",
+      "major": "Computer Engineering",
+      "availability": [
+        {
+          "date": [
+            {
+              "start": "ISO_timestring",
+              "end": "ISO_timestring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Officer2 Officer2",
+      "major": "Computer Engineering",
+      "availability": [
+        {
+          "date": [
+            {
+              "start": "ISO_timestring",
+              "end": "ISO_timestring"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "inductees": [
+    {
+      "name": "Inductee1 Inductee1",
+      "major": "Computer Engineering",
+      "availability": [
+        {
+          "date": [
+            {
+              "start": "ISO_timestring",
+              "end": "ISO_timestring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inductee2 Inductee2",
+      "major": "Computer Engineering",
+      "availability": [
+        {
+          "date": [
+            {
+              "start": "ISO_timestring",
+              "end": "ISO_timestring"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
